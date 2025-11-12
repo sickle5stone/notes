@@ -1,0 +1,12 @@
+File Tagging idea
+
+Search by name/files have been a traditional long lost problem
+What if each file was indexed
+
+Non-sensitive files be put through a generic model,
+sensitie files be put through a local model on the client.
+
+Creates a logical catalog of files to search and access.
+
+LLM based intepretion of the file and tag generation.
+Search tool to sieve through this tag generation or, text match via generated description of the file.
